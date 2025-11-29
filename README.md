@@ -31,4 +31,9 @@ Aplikasi dibuat sepenuhnya dengan **PHP Native**, tanpa framework, dan menerapka
 ---
 
 Video saat menggunakan aplikasi
-https://github.com/user-attachments/assets/a812600b-4af2-436a-8cc9-4453731edf64
+
+
+
+https://github.com/user-attachments/assets/7e4a5033-a2be-49c4-9cae-37d22330a3bd
+
+
